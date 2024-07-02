@@ -1,4 +1,34 @@
-div{
+.main div:nth-child(1){
+  background-color: red;
+  color: antiquewhite;
+  margin: 10px;
+  padding:10px;
+  width:21%;
+  height: 200px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.main div:nth-child(2){
+  background-color: red;
+  color: antiquewhite;
+  margin: 10px;
+  padding:10px;
+  width:21%;
+  height: 200px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.main div:nth-child(3){
+  background-color: red;
+  color: antiquewhite;
+  margin: 10px;
+  padding:10px;
+  width:21%;
+  height: 200px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.main div:nth-child(4){
   background-color: red;
   color: antiquewhite;
   margin: 10px;
